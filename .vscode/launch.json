@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - listaDoble",
+            "request": "launch",
+            "mainClass": "listaDoble",
+            "projectName": "ListaDoble_cae7808a"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - listaSimple",
+            "request": "launch",
+            "mainClass": "listaSimple"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test"
+        }
+    ]
+}
